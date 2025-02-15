@@ -1,4 +1,4 @@
-![logo](https://github.com/Bhagyashreepathak123/Bhagyashree-Pathak/blob/main/header_banner.jpg)
+![logo](https://github.com/Bhagyashreepathak123/Bhagyashreepathak123/blob/main/header_banner.jpg)
 <h1 align="center">Hi 👋, I'm Bhagyashree Pathak</h1>
 <h3 align="center">A passionate Python Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
